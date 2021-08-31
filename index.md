@@ -54,4 +54,4 @@ Any issues and improvements shall be submitted via GitHub interface of this repo
 
 #### Four Philosophers
 
-<embed type="application/x-shockwave-flash" src="aalst/philosopher4_RG.swf" width="1024" height="800">
+<embed type="application/x-shockwave-flash" src="aalst/philosopher4_RG.swf" width="1024" height="600">
