@@ -10,3 +10,5 @@ In general this is mostly a tribute to my master's degree course regarding model
 All the hard work and copyrights definitely belongs to original creators. My only intent is to make it more accessible and to backup SWFs in case of original(or at least the one that I know of) source goes down or gets removed.
 
 In any case, if you experience some issues or want to make an update, feel free to fill in a PR!
+
+Resulting page might be seen at https://alextalker.github.io/petri-net-tutorials/
