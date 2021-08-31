@@ -1,3 +1,5 @@
+<script src="ruffle/ruffle.js"></script>
+
 ## Interactive Tutorials on Petri Nets
 
 This page is generally a tribute to [original tutoral](https://www2.informatik.uni-hamburg.de/tgi/PetriNets/introductions/aalst/) and mainly made to make old, Adobe Flash-based examples work again without much hustle.
