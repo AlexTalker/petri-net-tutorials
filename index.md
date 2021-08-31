@@ -45,3 +45,13 @@ Any issues and improvements shall be submitted via GitHub interface of this repo
 #### Assembly
 
 <embed type="application/x-shockwave-flash" src="aalst/assembly.swf" width="1024" height="800">
+
+### Reachability Graphs / State Spaces
+
+#### Two Traffic Lights
+
+<embed type="application/x-shockwave-flash" src="aalst/trafficlight2_RG.swf" width="1024" height="800">
+
+#### Four Philosophers
+
+<embed type="application/x-shockwave-flash" src="aalst/philosopher4_RG.swf" width="1024" height="800">
