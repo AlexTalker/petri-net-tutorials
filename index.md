@@ -55,3 +55,13 @@ Any issues and improvements shall be submitted via GitHub interface of this repo
 #### Four Philosophers
 
 <embed type="application/x-shockwave-flash" src="aalst/philosopher4_RG.swf" width="1024" height="600">
+
+### Place Invariants
+
+#### Two Traffic Lights
+
+<embed type="application/x-shockwave-flash" src="aalst/trafficlight2_PI.swf" width="1024" height="768">
+
+#### Four Philosophers
+
+<embed type="application/x-shockwave-flash" src="aalst/philosopher4_PI.swf" width="1024" height="768">
