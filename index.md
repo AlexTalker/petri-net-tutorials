@@ -70,7 +70,7 @@ Any issues and improvements shall be submitted via GitHub interface of this repo
 
 #### Four Philosophers
 
-<embed type="application/x-shockwave-flash" src="aalst/philosopher4_PI.swf" width="1024" height="768">
+<embed type="application/x-shockwave-flash" src="aalst/philosopher4_PI.swf" width="1024" height="576">
 
 ----
 
@@ -82,4 +82,4 @@ Any issues and improvements shall be submitted via GitHub interface of this repo
 
 #### Four Philosophers
 
-<embed type="application/x-shockwave-flash" src="aalst/philosopher4_TI.swf" width="1024" height="768">
+<embed type="application/x-shockwave-flash" src="aalst/philosopher4_TI.swf" width="1024" height="600">
