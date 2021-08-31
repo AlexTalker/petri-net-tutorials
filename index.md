@@ -14,7 +14,7 @@ The following interactive tutorials introduce Petri nets, state spaces, and plac
 The tutorials are created by [Wil van der Aalst](https://www2.informatik.uni-hamburg.de/cgi-bin/TGI/individuals/fuzzy?name=w.v.d.aalst), Vincent Almering, and Hermen Wijbenga from TU Eindhoven, the Netherlands.
 The tutorials originate from [A Course On Workshop Management](https://www2.informatik.uni-hamburg.de/cgi-bin/TGI/www/redir?id=61/02&stat=) (see interactive examples).
 
-Note that you need [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly) support in order to view the interactive tutorials.
+Note that you need [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly#browser_compatibility) support in order to view the interactive tutorials.
 
 ----
 
