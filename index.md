@@ -8,6 +8,8 @@ All hard work and copyrights belong to original authors and this site mainly mad
 
 Any issues and improvements shall be submitted via GitHub interface of this repository..
 
+----
+
 ### Petri Nets Models
 
 #### Elevator 1
@@ -46,6 +48,8 @@ Any issues and improvements shall be submitted via GitHub interface of this repo
 
 <embed type="application/x-shockwave-flash" src="aalst/assembly.swf" width="1024" height="768">
 
+----
+
 ### Reachability Graphs / State Spaces
 
 #### Two Traffic Lights
@@ -56,6 +60,8 @@ Any issues and improvements shall be submitted via GitHub interface of this repo
 
 <embed type="application/x-shockwave-flash" src="aalst/philosopher4_RG.swf" width="1024" height="600">
 
+----
+
 ### Place Invariants
 
 #### Two Traffic Lights
@@ -65,3 +71,15 @@ Any issues and improvements shall be submitted via GitHub interface of this repo
 #### Four Philosophers
 
 <embed type="application/x-shockwave-flash" src="aalst/philosopher4_PI.swf" width="1024" height="768">
+
+----
+
+### Transition Invariants
+
+#### Two Traffic Lights
+
+<embed type="application/x-shockwave-flash" src="aalst/trafficlight2_TI.swf" width="1024" height="768">
+
+#### Four Philosophers
+
+<embed type="application/x-shockwave-flash" src="aalst/philosopher4_TI.swf" width="1024" height="768">
