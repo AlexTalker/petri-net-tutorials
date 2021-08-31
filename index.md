@@ -12,45 +12,45 @@ Any issues and improvements shall be submitted via GitHub interface of this repo
 
 #### Elevator 1
 
-<embed type="application/x-shockwave-flash" src="aalst/elevator1.swf" width="1024" height="800">
+<embed type="application/x-shockwave-flash" src="aalst/elevator1.swf" width="1024" height="768">
 
 #### Elevator 2
 
-<embed type="application/x-shockwave-flash" src="aalst/elevator2.swf" width="1024" height="800">
+<embed type="application/x-shockwave-flash" src="aalst/elevator2.swf" width="1024" height="768">
 
 #### Elevator 3
 
-<embed type="application/x-shockwave-flash" src="aalst/elevator3.swf" width="1024" height="800">
+<embed type="application/x-shockwave-flash" src="aalst/elevator3.swf" width="1024" height="768">
 
 #### One Traffic Light
 
-<embed type="application/x-shockwave-flash" src="aalst/trafficlight1.swf" width="1024" height="800">
+<embed type="application/x-shockwave-flash" src="aalst/trafficlight1.swf" width="1024" height="768">
 
 #### Two Traffic Lights
 
-<embed type="application/x-shockwave-flash" src="aalst/trafficlight2.swf" width="1024" height="800">
+<embed type="application/x-shockwave-flash" src="aalst/trafficlight2.swf" width="1024" height="768">
 
 #### One Philosopher
 
-<embed type="application/x-shockwave-flash" src="aalst/philosopher1.swf" width="1024" height="800">
+<embed type="application/x-shockwave-flash" src="aalst/philosopher1.swf" width="1024" height="768">
 
 #### Four Philosophers (model)
 
-<embed type="application/x-shockwave-flash" src="aalst/philosopher4_model.swf" width="1024" height="800">
+<embed type="application/x-shockwave-flash" src="aalst/philosopher4_model.swf" width="1024" height="768">
 
 #### Four Philosophers
 
-<embed type="application/x-shockwave-flash" src="aalst/philosopher4.swf" width="1024" height="800">
+<embed type="application/x-shockwave-flash" src="aalst/philosopher4.swf" width="1024" height="768">
 
 #### Assembly
 
-<embed type="application/x-shockwave-flash" src="aalst/assembly.swf" width="1024" height="800">
+<embed type="application/x-shockwave-flash" src="aalst/assembly.swf" width="1024" height="768">
 
 ### Reachability Graphs / State Spaces
 
 #### Two Traffic Lights
 
-<embed type="application/x-shockwave-flash" src="aalst/trafficlight2_RG.swf" width="1024" height="800">
+<embed type="application/x-shockwave-flash" src="aalst/trafficlight2_RG.swf" width="1024" height="768">
 
 #### Four Philosophers
 
