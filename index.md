@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Interactive Tutorials on Petri Nets
 
-You can use the [editor on GitHub](https://github.com/AlexTalker/petri-net-tutorials/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This page is generally a tribute to [original tutoral](https://www2.informatik.uni-hamburg.de/tgi/PetriNets/introductions/aalst/) and mainly made to make old, Adobe Flash-based examples work again without much hustle.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+All hard work and copyrights belong to original authors and this site mainly made to befriend original Adobe Flash-based solutions with modern browsers, and to keep a backup of them just in case due to education value.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlexTalker/petri-net-tutorials/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Any issues and improvements shall be submitted via GitHub interface of this repository..
